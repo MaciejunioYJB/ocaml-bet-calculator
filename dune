@@ -1,0 +1,4 @@
+(executable
+ (name program)
+ (flags (-safe-string))
+ (libraries Str))
